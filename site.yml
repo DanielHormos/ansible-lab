@@ -1,0 +1,6 @@
+---
+- name: Configure lab servers
+  hosts: lab
+  become: true
+  roles:
+    - baseline

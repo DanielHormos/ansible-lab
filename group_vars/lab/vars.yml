@@ -1,0 +1,9 @@
+admin_contact: "Driften i FMTIS"
+base_packages:
+  - htop
+  - tree
+  - curl
+  - openssh-server
+lab_users:
+  - name: labadmin
+  - name: operator1
